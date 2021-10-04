@@ -5,3 +5,5 @@ These are the scripts relevant to the analyses made for the following publicatio
 
 Kelley F, Favetta B, Schuster B. Surfactant-like Proteins Coassemble with Biomolecular
 Condensates and Control Condensate Size. bioRxiv : the preprint server for biology. 2021 May 29.
+
+Please note that files were compressed for uploading to Github which may have affected image quality.
